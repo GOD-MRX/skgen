@@ -7,7 +7,7 @@ from random import randrange
 print ("==============")
 print ("Bins posibles:=")
 print ("==============")
-print (f"{bin}:=")
+print (f "{bin}=")
 print ("=======")
 print(randrange(10000000000, 60000000000))
 print(randrange(10000000000, 60000000000))
