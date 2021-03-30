@@ -5,4 +5,4 @@ echo "|_) | | |_> \_|(/_| |"
 echo "=========="
 echo "Herramienta generadora de bins aleatorios="
 echo "=========="
-python .skgen.py
+python3 .skgen.py
