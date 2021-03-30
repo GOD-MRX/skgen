@@ -1,7 +1,7 @@
-print("Bienvenido a este pequeño generador aleatorio, para continuar da enter ")
-bin = input ()
+print("Bienvenido a este pequeño generador aleatorio, para continuar da enter")
+Continuar= input ()
 print ("")
-print(" La Herramienta consiste en un sistema de generacion aleatorio, para comenzar da enter:")
+print("La Herramienta consiste en un sistema de generacion aleatorio, para comenzar da enter:")
 Aceptar= input ()
 from random import randrange
 print ("==============")
