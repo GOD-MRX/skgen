@@ -1,8 +1,8 @@
 print("Indroduzca los primeros 6 numeros del bin:")
 bin = input ()
 print ("")
-print("Indroduzca el year ejemplo 23:")
-año = input ()
+print("Indroduzca el year:")
+year = input ()
 from random import randrange
 print ("==============")
 print ("Bins posibles:=")
